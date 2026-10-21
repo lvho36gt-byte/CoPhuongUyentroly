@@ -1,0 +1,7 @@
+{
+  "name": "Vườn Học Tập AI - Lớp 3B",
+  "description": "Nền tảng giáo dục thông minh 'Vườn Học Tập AI – Đồng hành cùng học sinh lớp 3' của cô giáo Lê Phương Uyên, Trường Tiểu học Khoái Châu 1. Học vui mỗi ngày – Tự tin khám phá – Sáng tạo cùng AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
